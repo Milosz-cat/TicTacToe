@@ -9,7 +9,6 @@ Simple Python tictactoe game with alpha beta pruning minimax AI algorithm.
   
 ## Preview
 ![App Screenshot](https://github.com/Milosz-cat/TicTacToe/blob/main/Preview/Screenshot%202023-08-02%20153958.png)
-![App Screenshot](https://github.com/Milosz-cat/TicTacToe/blob/main/Preview/Screenshot%202023-08-02%20154110.png)
 
 ## Requirements
 * python >= 3.9
