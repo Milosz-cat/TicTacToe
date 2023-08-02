@@ -19,4 +19,13 @@ Clone the repository from the github to your local folder with the following com
 ```bash
 (https://github.com/Milosz-cat/TicTacToe.git)https://github.com/Milosz-cat/TicTacToe.git
 ```
-After that you can simply run program on VS Code or other editor.
+Keep in mind that AI may be very slow with big board size.
+
+Now you can start the game by typing following command:
+```bash
+python tictactoe.py
+or
+python3 tictactoe.py
+or
+py tictactoe.py
+```
